@@ -1,6 +1,6 @@
-(h1)Welcome to my page.(/h1)
+#Welcome to my page.
 
-(This is a preliminary version of my site. I'm working on improvements :)
+*This is a preliminary version of my site. I'm working on improvements :)*
 
 I am a:
 - Spanish language expert 🇪🇸
@@ -10,11 +10,11 @@ I am a:
 
 I am currently focusing on developing my career as a professional ENG/SPAN translator who specializes on IT projects 🖥
 
-Are you a translator recruiter? I'd love to hear from you. Here's my Proz profile.
+Are you a translator recruiter? I'd love to hear from you. Here's [my Proz profile.](https://www.proz.com/translator/1512548)
 
-Are you a student looking for Spanish lessons? Send me an email at yotzin@gmail.com and we can talk.
+Are you a student looking for Spanish lessons? Send me an email at **yotzin@gmail.com** and we can talk.
 
-Here's my LinkedIn profile.
+Also, here's [my LinkedIn profile.](https://www.linkedin.com/in/yotzin/)
 
 Thanks for visiting!
 
