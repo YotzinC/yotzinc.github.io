@@ -1,6 +1,4 @@
-#Welcome to my page.
-
-*This is a preliminary version of my site. I'm working on improvements :)*
+Welcome to my site.
 
 I am a:
 - Spanish language expert 🇪🇸
